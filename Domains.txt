@@ -98,6 +98,19 @@ cloud-ed980.firebaseapp.com
 googl-6c11f.firebaseapp.com
 my1cloudlive.com
 web-16fe.app  
+forum.techtg.com
+forum.technoforts.com
+api.technology-system.com
+api.healthylifefeed.com
+api.softmatictech.com
+apiv2.onlinefieldtech.com
+auth.onlinefieldtech.com
+status.techupinfo.com
+api.medicinefinders.com
+account.techupinfo.com
+api.systemsync.info
+api.widetechno.info
+
 
 
 
