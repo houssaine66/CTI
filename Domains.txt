@@ -110,7 +110,7 @@ api.medicinefinders.com
 account.techupinfo.com
 api.systemsync.info
 api.widetechno.info
-http://pywolwnvd.biz/uuep
+pywolwnvd.biz/uuep
 att-106696.weeblysite.com
 att-102856.weeblysite.com
 att-support-100433-104385.square.site
@@ -159,6 +159,7 @@ novanosa5org.org
 potunulit.org
 uaery.top
 j.ffbbjjkk.com  
+
 
 
 
